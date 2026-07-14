@@ -1,20 +1,20 @@
-<!-- ===================================================== -->
-<!--                     Kanish M R                        -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:7C3AED&text=Kanish%20M%20R&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Software%20Engineer%20•%20DevOps%20Enthusiast&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-# 👋 Hello, I'm Kanish
+# Hi 👋, I'm Kanish M R
 
 ### Full Stack Developer • Software Engineer • DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Scalable+Applications.;Exploring+Cloud+%26+DevOps.;Learning+AI+%26+Machine+Learning.;Creating+Immersive+Gaming+Experiences.;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications;Exploring+Cloud+%26+DevOps;Learning+AI+%26+Machine+Learning;Creating+Immersive+Gaming+Experiences;Always+Learning+%F0%9F%9A%80"/>
+
+<p>
+Building scalable software that solves real-world problems through modern technologies,
+cloud-native architecture, and continuous learning.
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kanish-17.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanish-320846333/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishmr17@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kanish17_/)
 
 </div>
 
@@ -22,146 +22,204 @@
 
 # 💫 About Me
 
-```java
-public class Kanish {
+🎓 Computer Science undergraduate at **Sri Eshwar College of Engineering**.
 
-    String role = "Full Stack Developer";
+💻 Passionate **Full Stack Developer** focused on building scalable, secure, and user-centric applications.
 
-    String education =
-        "B.E. Computer Science & Engineering";
+☁️ Exploring **Cloud Computing**, **DevOps**, **Microservices**, and **System Design** to build production-ready software.
 
-    String college =
-        "Sri Eshwar College of Engineering";
+🤖 Enthusiastic about **Artificial Intelligence**, **Machine Learning**, and modern software engineering practices.
 
-    String careerGoal =
-        "Full Stack & Cloud Engineer";
+🎮 Interested in **Unity Game Development** and creating immersive digital experiences.
 
-    String passion =
-        "Building scalable software for real-world problems";
-
-    String interests[] = {
-
-        "Cloud Computing",
-        "DevOps",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Unity Game Development",
-        "System Design"
-
-    };
-
-}
-```
-
-I'm **Kanish M R**, a passionate Full Stack Developer pursuing **B.E. Computer Science & Engineering** at **Sri Eshwar College of Engineering**.
-
-My programming journey began during my **first year of college**, and since then I've been driven by curiosity and a passion for building software that solves real-world problems.
-
-I'm particularly interested in designing scalable web applications, exploring cloud-native technologies, integrating AI into modern applications, and creating immersive gaming experiences. Every project I build is an opportunity to improve my engineering skills and learn something new.
+🎯 **Career Goal:** Become a **Full Stack & Cloud Engineer** building products that create real-world impact.
 
 ---
 
 # 🚀 Current Focus
 
-- 💻 Building scalable Full Stack applications
-- ☁️ Learning Cloud Architecture & AWS
-- ⚙️ Mastering DevOps tools & CI/CD
-- 🤖 Exploring AI, Machine Learning & LLMs
-- 🎮 Developing interactive applications with Unity
-- 📚 Strengthening DSA & System Design
-- 🌍 Contributing to impactful software projects
+- 🔭 Building scalable Full Stack applications
+- 🌱 Learning AWS, Kubernetes, Docker & CI/CD
+- 🤖 Exploring AI, Machine Learning & Generative AI
+- 🏗️ Improving System Design & Microservices knowledge
+- 💡 Solving Data Structures & Algorithms
+- 🎮 Building interactive Unity projects
 
 ---
 
-# 💻 Tech Arsenal
+# 🛠️ Tech Stack
 
-## Programming Languages
+### Languages
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,mysql"/>
-
 </p>
 
----
+### Frontend
 
-## Frontend Development
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs"/>
-
 </p>
 
----
+### Backend
 
-## Backend Development
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask"/>
-
 </p>
 
----
+### Database
 
-## Databases
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
 </p>
 
----
+### DevOps & Cloud
 
-## DevOps & Cloud
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws"/>
-
 </p>
 
----
+### AI / Data Science
 
-## Data Science
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python"/>
-
 </p>
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,unity"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎮 E-Sports Platform
+
+A modern **MERN Stack** application designed for esports communities, tournaments, team management, and player engagement.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB
+
+---
+
+## 📊 Video Game Spending Predictor
+
+An intelligent platform that predicts player spending behavior using gameplay analytics and machine learning to provide actionable business insights.
+
+**Tech Stack:** MERN • Python • Machine Learning
+
+---
+
+## 🧺 Lunex IoT Washing Machine Booking System
+
+A smart IoT-based booking platform that streamlines washing machine scheduling and improves resource utilization.
+
+**Tech Stack:** Python • Data Science • IoT
+
+---
+
+# 📚 Currently Learning
+
+- ☁️ AWS Cloud Services
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ GitHub Actions & CI/CD
+- 🏗️ System Design
+- 🔗 Microservices
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🚀 AI Agents
+- 🎮 Unity Game Development
+
+---
+
+# 💡 Developer Philosophy
+
+> *"I believe great software is built through curiosity, consistency, and continuous learning. Every project is an opportunity to solve real-world problems, improve engineering skills, and create meaningful impact."*
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishmr17x&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishmr17x&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Development Tools
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,unity"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/AI%20Tools-7C3AED?style=for-the-badge"/>
+<img src="https://streak-stats.demolab.com?user=kanishmr17x&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 Career Vision
+# 📈 Contribution Graph
 
-> **"I love building scalable applications that solve real-world problems while exploring Cloud Computing, Artificial Intelligence, and immersive gaming experiences."**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishmr17x&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kanishmr17x&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kanishmr17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kanish-320846333/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://portfolio-kanish-17.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kanishmr17x&style=for-the-badge&color=3b82f6"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code with purpose. Learn continuously. Build for impact."*
+
+</div>
